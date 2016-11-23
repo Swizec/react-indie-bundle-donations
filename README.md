@@ -24,7 +24,7 @@ On November 28th - Cyber Monday - sales open for [React Indie Bundle](http://www
 
 Then we count [the votes](https://github.com/Swizec/react-indie-bundle-donations/issues) and make donations. The more upvotes, the bigger the donation.
 
-Let's say we get 100 upvotes. 60 for Webpack, 30 for MobX, and 10 for Preact. If the final donation pot is $10,000, then Webpack gets $6,000, MobX $3,000, and Preact $1,000.
+To increase fairness, we're donating with [a logarithmic scale](https://en.wikipedia.org/wiki/D%27Hondt_method). Let's say we get 3 different projects. Webpack with 60 upvotes, MobX with 30, and Preact with 15. If the final donation pot is $10,000, then Webpack gets $5,800, MobX $2,800, and Preact $1,400.
 
 Now help us out and [suggest your fav project](https://github.com/Swizec/react-indie-bundle-donations/issues) :)
 
